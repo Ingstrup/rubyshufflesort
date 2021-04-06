@@ -1,2 +1,2 @@
 # rubyshufflesort
-Ineffectively sort an array of integers.
+Inefficiently sort an array of integers.
