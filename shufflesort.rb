@@ -23,5 +23,3 @@ ary = ARGV.map(&:to_i)
 puts 'input missing' if ary.empty?
 
 print ary.shufflesort!.join(' ')
-
-puts
